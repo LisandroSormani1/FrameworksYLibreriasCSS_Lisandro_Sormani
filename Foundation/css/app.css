@@ -1,0 +1,36 @@
+body{
+	background-color: rgb(66, 218, 115);
+	padding: 0 auto;
+}
+
+.izq{
+	text-align: right;
+}
+
+.color{
+	background-color: rgba(23, 56, 176, 0.23);
+}
+
+.btn{
+background-color: transparent;
+color: #2e61f9;
+border: 1px solid;
+}
+
+.min{
+	width: 50px !important;
+	height: 50px !important;
+}
+
+.color1{
+	list-style-type: none;
+}
+
+.color2{
+	color:rgb(254, 179, 237);
+}
+
+.mini{
+	width: 100% !important;
+	height: 100% !important;
+}
